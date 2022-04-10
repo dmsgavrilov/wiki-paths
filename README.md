@@ -4,6 +4,6 @@
 
 ### Запуск приложения
 
-```pip3 install -r requirements.txt```
-```python3 web_app.py```
-```python3 worker.py```
+```pip3 install -r requirements.txt``` \
+```python3 web_app.py``` \
+```python3 worker.py``` \
